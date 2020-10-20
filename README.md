@@ -1,2 +1,2 @@
-# riscv
+# RISC V
 RISC-V Projects
